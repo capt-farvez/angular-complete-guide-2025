@@ -1,4 +1,4 @@
-# Angular Complete Guide 2025
+# Angular Learning Portfolio
 
 This repository contains a collection of Angular projects developed as part of the "Angular - The Complete Guide (2025 Edition)" course by Maximilian Schwarzmüller throught Udemy. Each project is a standalone application that explores different aspects of the Angular framework, from the basics to advanced topics.
 
