@@ -17,6 +17,9 @@ The repository is organized into the following projects:
 9.  **Lazy Loading**: These projects demonstrates how to use lazy loading to improve the performance of an Angular application.
 10. **Deployment**: These projects covers the process of deploying an Angular application to a production environment.
 
+## 📘 Documentation
+- [Angular Application Execution Flow](docs/angular_application_execution_flow_detailed.md)
+- [Course Slides (PDF)](docs/angular-course-slides.pdf)
 ## Getting Started
 
 To get started with any of the projects, navigate to the project's directory and run the following commands:
